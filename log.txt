@@ -1,0 +1,2268 @@
+Thu Apr 21 17:12:05 2022
+Linux-5.13.0-39-generic-x86_64-with-debian-bullseye-sid
+Ren'Py 7.4.11.2266
+ 
+
+Bootstrap to the start of init.init took 0.17s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.05s
+Loading script took 0.33s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.10s
+Loading analysis data took 0.04s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.04s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.55s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1184, 666) drawable=(1184, 666)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 19.84s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.03s
+Loading script took 0.11s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 80.38s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.03s
+Loading script took 0.18s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.13s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 124.34s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.19s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 141.60s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.15s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 167.53s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.03s
+Loading script took 0.13s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.13s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 177.19s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.13s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 195.76s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.13s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 268.91s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.03s
+Loading script took 0.14s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 367.66s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.12s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+
+File "game/theremake.rpy", line 18: expected menuitem
+    show neutral at left
+    ^
+DPI scale factor: 1.000000
+Interface start took 0.19s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 384.45s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.13s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.10s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.06s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 400.31s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.13s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.08s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.13s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 412.93s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.13s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.08s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Bootstrap to the start of init.init took 711.66s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.41s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.05s
+Loading analysis data took 0.04s
+Analyze and compile ATL took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.14s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.08s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.06s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.06s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 824.67s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.03s
+Loading script took 0.14s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.08s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.14s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.08s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.06s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 831.62s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.11s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.08s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 891.14s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.13s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.13s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.06s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 894.53s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.03s
+Loading script took 0.27s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+
+File "game/screens.rpy", line 1522: style property screen is not known.
+    screen busScreen():
+          ^
+DPI scale factor: 1.000000
+Interface start took 0.17s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1010.40s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.27s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+
+File "game/screens.rpy", line 1522: style property screen is not known.
+    screen busScreen():
+          ^
+DPI scale factor: 1.000000
+Interface start took 0.16s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1027.12s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.13s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.10s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.13s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.07s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.06s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1033.30s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.03s
+Loading script took 0.11s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1067.41s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.03s
+Loading script took 0.13s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1093.98s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.03s
+Loading script took 0.14s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.08s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.08s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.06s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1109.36s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.41s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.05s
+Loading analysis data took 0.04s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.08s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.06s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.06s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Bootstrap to the start of init.init took 1205.78s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.27s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+
+File "game/screens.rpy", line 1525: u'height' is not a keyword argument or valid child for the frame statement.
+    height .3 width .4
+          ^
+DPI scale factor: 1.000000
+Interface start took 0.19s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1215.05s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.26s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+
+File "game/screens.rpy", line 1525: u'height' is not a keyword argument or valid child for the frame statement.
+    height 0.3 width 0.4
+          ^
+DPI scale factor: 1.000000
+Interface start took 0.16s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1227.32s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.28s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+
+File "game/screens.rpy", line 1525: u'h' is not a keyword argument or valid child for the frame statement.
+    h 0.3 w 0.4
+     ^
+DPI scale factor: 1.000000
+Interface start took 0.17s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1244.10s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.03s
+Loading script took 0.14s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.09s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1352.65s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.27s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+
+File "game/screens.rpy", line 1522: expected 'word' not found.
+    screen ():
+           ^
+DPI scale factor: 1.000000
+Interface start took 0.18s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1361.91s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.46s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.07s
+Loading analysis data took 0.05s
+Analyze and compile ATL took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.06s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1372.82s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.03s
+Loading script took 0.12s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.08s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1380.97s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.03s
+Loading script took 0.12s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Bootstrap to the start of init.init took 1422.89s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.03s
+Loading script took 0.41s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.05s
+Loading analysis data took 0.05s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.08s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.06s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1428.71s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.11s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1455.42s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.12s
+Loading save slot metadata. took 0.02s
+Loading persistent took 0.00s
+
+File "game/theremake.rpy", line 56: u'at' is not a keyword argument or valid child for the screen statement.
+    screen busScreen at right
+                       ^
+DPI scale factor: 1.000000
+Interface start took 0.18s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1463.18s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.03s
+Loading script took 0.13s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.09s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1470.61s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.03s
+Loading script took 0.12s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.08s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.13s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 2740.63s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.03s
+Loading script took 0.14s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.06s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 2756.03s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.14s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.13s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.08s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.06s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 2767.53s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.11s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.08s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 2777.20s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.13s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 2779.06s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.13s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.08s
+Loading analysis data took 0.04s
+Analyze and compile ATL took 0.01s
+Index archives took 0.00s
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.08s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 2793.07s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.13s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.08s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 2805.53s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.03s
+Loading script took 0.15s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.08s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.13s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.06s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 3025.39s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.42s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.05s
+Loading analysis data took 0.04s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.08s
+DPI scale factor: 1.000000
+Creating interface object took 0.04s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 3030.26s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.14s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.08s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.13s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.08s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 3032.10s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.13s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.08s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.06s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 3073.71s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.13s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 54: expected statement.
+    busScreen()
+               ^
+DPI scale factor: 1.000000
+Interface start took 0.18s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 3087.48s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.13s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.10s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.13s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 3103.37s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.13s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.08s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 3106.78s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.03s
+Loading script took 0.43s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.05s
+Loading analysis data took 0.04s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.08s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 3111.77s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.03s
+Loading script took 0.42s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.05s
+Loading analysis data took 0.04s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.08s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 3118.36s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.12s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.08s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.13s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 3126.28s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.42s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.05s
+Loading analysis data took 0.04s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.08s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 3168.80s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.03s
+Loading script took 0.11s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.08s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.13s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.08s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 3185.69s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.42s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.06s
+Loading analysis data took 0.04s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/teppy/.renpy/backups/DigiLet_pi':
+Dump and make backups. took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.08s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.06s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'AMD'
+Renderer: 'AMD KAVERI (DRM 2.50.0, 5.13.0-39-generic, LLVM 12.0.0)'
+Version: '4.5 (Compatibility Profile) Mesa 21.2.6'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1366, 684) drawable=(1366, 684)
+Maximum texture size: 4096x4096
