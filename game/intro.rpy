@@ -9,12 +9,10 @@ label intro:
     ""
     "The end."
     hide neutral2
-    show c_ehe
-    with dissolve
+    show c_ehe with dissolve
     "Hehe! Joke lang. So ayon...yeah I met you...along with everyone else."
     hide c_ehe
-    show neutral2
-    with dissolve
+    show neutral2 with dissolve
     "It's not unknown naman na hindi tayo close / masyadong close nung high school.The Pinky I know was someone so...nag-aaral lang. Ganern. Kasama sa top students? Tropa ni Angelique at Llabora? haha"
     hide neutral2
     show c_ehe
@@ -78,18 +76,15 @@ label intro:
         "This is where I'll do so."
         hide c_poker
         # change scene here
-        scene bg sorry
-        with slowdissolve
-        show unready at right
-        with dissolve
+        scene bg sorry with slowdissolve
+        show unready at right with dissolve
         "Pinky, I really want to apologize, make-up for what I did back then and uh...maybe repay you for the kindness you've shown me throughout all the years I've known you."
         "I know this is will not be enough. This will never be enough. Kahit nasabi mo na sakin na okay na...na wala ka namang itinanim na galit sakin (samin), it really did bother me to this day..."
         hide unready
-        show ehe at slightright
-        with dissolve
+        show ehe at slightright with dissolve
         "Wait...hindi naman to this day, actually. HAHA but the whole time we were not talking to each other; the whole time we're not as close as how we used to be before THAT happened."
         hide ehe
-        show poker
+        show poker with dissolve
         "I know apologies will never be enough. \nSabi nga ni Dao Ming Zi: \"Para saan pa ang pulis?\" di ba?"
         hide poker
         show ehe

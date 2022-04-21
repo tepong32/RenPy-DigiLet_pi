@@ -2,9 +2,23 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 54: expected statement.
-    busScreen()
-               ^
+The label q1_yes is defined twice, at File "game/theremake.rpy", line 26:
+    label q1_yes:
+and File "game/theremake.rpy", line 111:
+    label q1_yes:
+
+
+The label q1_no is defined twice, at File "game/theremake.rpy", line 38:
+    label q1_no:
+and File "game/theremake.rpy", line 123:
+    label q1_no:
+
+
+The label q1_done is defined twice, at File "game/theremake.rpy", line 50:
+    label q1_done:
+and File "game/theremake.rpy", line 135:
+    label q1_done:
+
 
 Ren'Py Version: Ren'Py 7.4.11.2266
-Thu Apr 21 18:03:19 2022
+Thu Apr 21 19:24:24 2022
