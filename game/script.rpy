@@ -41,58 +41,43 @@ label start:
 
     scene bg pathway1
     ""
-    show unready at slightright
-    with dissolve
+    show unready at slightright with dissolve
     "ehem"
     hide unready
-    show surprised at right
-    with dissolve
+    show surprised at right with dissolve
     "Huy! (Charaught lang.)"
-    hide surprised
-    with dissolve
+    hide surprised with dissolve
     "Teka okay na ba itsura ko?"
-    show closeup
-    with dissolve
+    show closeup with dissolve
     ""
-    hide closeup
-    with dissolve
-
+    hide closeup with dissolve
     show smile
     "Orayt, lezgow!"
-    hide smile
-    with fade
+    hide smile with fade
 
     # change bg here
     show neutral2
     "Kumusta naman? It's been like what? 4 or 5 years since you received the initial version of this thingy?"
     "I'd love to call this DigiLet, btw."
-    hide neutral2
-    with dissolve
-
+    hide neutral2 with dissolve
     show c_ehe
     "Understandable, right?"
-    hide c_ehe
-    with dissolve
+    hide c_ehe with dissolve
     show neutral2
     "I got a little tired of (but being stuck with) webdev stuffs and while checking-out what other options are available, I came across something that made me remember the very reason why I started programming."
-    hide neutral2
-    with dissolve
+    hide neutral2 with dissolve
     show smile
     ""
     hide smile
-    show stare
-    with dissolve
+    show stare with dissolve
     "You."
     "I wanted to give you a digital, interactive love letter back then."
     hide stare
-    show c_ehe
-    with dissolve
+    show c_ehe with dissolve
     "And then...eto na yun!"
     "Hinanap ko ung sinend ko sa'yo noon (the very first one), and then inilagay ko dito."
     "Keep in mind na inalis ko na ung instructions on how to use it kasi heto na nga, may GUI na. Kaya mas maikli na siguro itey..."
-    hide c_ehe
-    with fade
-
+    hide c_ehe with fade
     show neutral2
     "Today is April 19, 2022. (This also serves as a remembrance for me kaya may date.)"
     "I was able to create this part 1 Visual Novel (VN) in 2 days! ;)"
