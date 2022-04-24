@@ -58,39 +58,57 @@ label q1:
             hide c_happy with dissolve
             # show bus screen here....bat ayaw gumana!?
         else:
+            show bus at right behind c_haist with slowdissolve
             "Well, anyway, hindi naman yun mahalaga. What's important is now you know. \nTechnically, that was 13 kase madaling araw na..."
             "...sa bus. di ba?"
             hide c_haist
-            show c_ehe
+            show c_ehe at left with dissolve
             "I would love to remember as much details as I could kaso di ko matandaan ung name ng bus. LOL"
+            hide bus with dissolve
+            show sanmig at left with dissolve
+            pause 0.5
+            show cheetos at right with dissolve
+            pause 0.5
+            hide sanmig
+            hide cheetos with dissolve
+
             "Remember the beer? The spicy cheetos? The field? The rain?"
+            hide c_ehe with dissolve
             ""
-            show c_happy with dissolve
-            "Mamaya mo na alalahanin ung pagtutulak mo. HAHAHA! SORRY NA KASI E! Sabi naman sayo, at least, sakin mo lang na-experience un!"
+            show push at right with dissolve
+            show c_ehe at left with dissolve
+            pause 1.0
+            hide c_ehe
+            show c_happy at left
+            "Ay oo nga! HAHAHAHA!"
+            "Mamaya mo na alalahanin ung pagtutulak mo, Pi! HAHAHA! SORRY NA KASI E!"
+            hide push with dissolve
+            "Sabi naman sayo, at least, sakin mo lang na-experience un!"
             hide c_happy
-            show c_poker
-            "Setting that \"pagtutulak\" aside, that night was the actual night..."
-            "That was when I actually first wanted to kiss you..."
+            show c_poker at left with dissolve
+            "Setting that \"pagtutulak\" aside,... (ibahin ko na agad topic. hehe)"
+            "That night was when I actually first wanted to kiss you..."
             hide c_poker
-            show c_ehe
+            show c_ehe with dissolve
             "...and I'm not telling just a kiss on the cheeks. I was looking at your lips back then. Honestly. haha"
             hide c_ehe
-            show c_poker
+            show c_poker at left with dissolve
             "Same as nung andun tayo kela Jude. I was looking... \njust looking though."
-            "I mentioned this din after nung kela Jude di ba? Pero that first night we were together"
+            "I mentioned this din after nung kela Jude di ba? Pero that first night we were together..."
             "...at the field"
             "...umuulan?"
             hide c_poker
-            show c_neutral
-            "gustong gusto kita halikan."
+            show c_neutral with dissolve
+            "...gustong-gusto kitang halikan."
             "I just don't know if I was afraid or I was just thinking na hindi pa yun ung oras...Maybe both?"
             hide c_neutral
             show c_haist at left with dissolve
             "That may be a perfect place but definitely not a perfect timing...and I was right."
             "Galing ko talaga sa mga ganun e!"
+            "I'm somehow glad that I hesitated and my hesitaion won."
             hide c_haist
-            show closeup at left
-            "OKAAAAAAAY...NEXT!"
+            show closeup at left with dissolve
+            "ANYWAAAAAAAAY...NEXT!"
             jump q2
 
 ### Question #2
@@ -125,18 +143,18 @@ label q2:
         ""
         ""
         "AYYIIIIIIIEEEEEEE!! HAHAHA"
-        "I was tipsy pero feeling ko okay lang. Okay lang naman di ba? I mean we're all friends doon."
-        hide c_neutral
+        "I was tipsy pero feeling ko okay lang. Okay lang naman di ba? I mean we're all friends naman doon."
+        hide c_happy
         show c_poker at left
         "Besides, matagal naman na silang boto sayo for me."
         "No kidding. I was often asked pag magkikita-kita kame (kahit wala ka):"
         ""
         hide c_poker
         show c_neutral at right with dissolve
-        "Bakit di na lang si Pinky?"
+        "\"Bakit di na lang si Pinky?\""
         hide c_neutral
         show c_ehe at left with dissolve
-        "Tinatanong naman nila yan pag magkasama tayo di ba? Tinatanong din nila kahit hindi kapag nababanggit kita. Ganun."
+        "Tinatanong din naman nila yan pag magkasama tayo di ba? Tinatanong din nila kahit hindi kapag nababanggit kita. Ganun."
         "E bakit nga ba?? hahaha"
         hide c_ehe
         jump q3
@@ -154,33 +172,53 @@ label q3:
             show c_ehe with fade
             "Di nga sabi ako papayag na NO dito...sayang effort ko, anu ka baaaaaa? HAHAHA"
             "Uulit lang to. Kailangan mag-yes ka... Click YES! haha"
+            hide c_ehe with dissolve
             jump q3
 
     label q3_yes:
-        "GOOD! Warning: YOU proceeded at your own risk. (HAHAHAHA! ang witty ko sa disclaimer na to. shet!)"
+        hide neutral
+        show neutral2 with dissolve
+        "GOOD! Warning: YOU proceeded at your own risk. (HAHAHAHA! Feeling ko ang witty ko sa disclaimer na to. shet!)"
         "You may either hate or admire what you'll come to know after this."
         "This is where things get a little bit exciting. *insert devilish smirk*"
-        "I actually had this idea na: \"Ayokong maging first boyfriend mo\"."
+        hide neutral2 with dissolve
+        show closeup with dissolve
+        "I actually had this idea na: \n\"Ayokong maging first boyfriend mo\"."
+        hide closeup
+        show c_poker
         "Seriously...ayoko lang. Why? "
         "Gusto ko lang fair. You're not my first. I don't want to be your first either."
         "Munggago no?"
         "\"Fair\" in a sense na maybe, just maybe, you can then understand why I held on to the first relationship I had. You need to understand what I went through."
         "It's different from what you experienced pero somewhat similar in a way na they got the best of us...and the best of us just got thrown away."
-        "The misery of getting your heart broken from a commitment? Darn! Saket di ba?"
+        "The misery of getting your heart broken from a commitment? Saket di ba?"
+        hide c_poker
+        show c_ehe
         "But don't get me wrong. I did not think about that because I want you to suffer (\"suffer more\" should be the term here kase I made you suffer before na...)."
         "I wanted you to understand. And by now, I definitely think na you fully understand it na. Tama?"
         "HEEEYY! I know I sounded very confident dun sa early part nitong thought na sinasabi ko. haha 'I don't want to be your first'? Damn! So, sure akong magbe-break kayo ng first mo? Na magiging tayo?? HAHAHAHA!"
         "Ang yabang ko di ba? Ang assuming. But honestly, yeah. I honestly think I have the slightest chance pa rin naman e... chance. Right?"
+        hide c_ehe
+        show c_haist
         "Well, for the sake of this 'letter', pabayaan mo na lang. Let it go, let it go. haha "
         "If I am overall, totally and completely wrong, then...Okay lang din naman. Sabihin na lang natin na that's what I thought when I came up with this idea of \"fairness\"."
+        hide c_haist
+        show c_poker
         "Yung fair as in: meron tayo parehong pagkukumparahan. Walang maisusumbat ba if magkaroon ng kung ano mang away or tampuhan. Ganun..."
         "In a positive way, I just don't like the idea of me having someone prior tapos ikaw, wala."
         "Pero seryoso...di sapilitan 'to. Okay lang kahit ano. Sabi ko nga lage, pwede ka gumanti. Tapos feeling ko di rin naman na ko ganun maaapektuhan."
+        hide c_poker
+        show c_ehe
         "I mean...uh? Pano ba to? haha Di naman sa di ako seryoso...Lagi naman akong seryoso pagdating sa mga ganito pero siguro I just don't want to put my all pa until okay na. Okay ka na...Okay na tayo. Ganun."
         "If di magiging tayo, edi wow. HAHAHA deeehh..Promise okay nga lang. Feeling ko kaya ko na rin ung ginawa mo like remaining friends even after all that has happened: Maturity."
+        hide c_ehe
+        show c_neutral
         "I am well aware and very precautious na rin pagdating dito. Tengene mesheket e. Teteeng mesheket debe? :D "
         "Life is what happens while we're busy making our excuses. (wow? sa kanta ng simple plan yan galing...pero ano'ng konek?)"
         "Wala. Maybe I just wanted you to know that. I think I brought this up on a conversation we had before din naman...tapos di ko tinuloy. Sabi ko may better timing. Eto yun. ;)"
+        hide c_neutral with dissolve
+        hide c_haist
+        show neutral2 at right with fade
         "So, ayun! Now you know. Ayos ba? Ganda ng revelation ko no? Well-thought-out slash well-planned and executed. Na-predict? LOL"
         "...and that's that! Ngayon...Ano gagawin naten? HAHAHA"
         "Sa tingin mo, ano?"
@@ -203,30 +241,44 @@ label q4:
     "Ready? "
     "Here we go: "
     "Unexpected Runtime Error. Exiting program."
-    "HAHAHA! Joke lang! Eto na talaga..."
+    ""
+    ""
+    hide neutral2
+    show c_happy at right with dissolve
+    "Joke lang! Eto na talaga..."
 
     label q4_1:
         "Will be my girlfriend, Pinky?"
         menu:
             "Yes.":
+                hide c_happy
                 jump q4_1_yes
 
             "No":
+                hide c_happy
+                show c_ehe at right with dissolve
                 jump q4_1_no
 
         label q4_1_yes:
+            hide neutral
+            show ha at right with flashbulb
+            hide ha
+            show smile at right
             "ORAAAAYYYYTTT! EPEKTIB! MWAHAHAHAHAHAHA!"
             "Pero joke lang yung sinabi ko. Di ko malalaman sagot dito. Di pa ko ganun kagaling no."
             "Basic pa lang tong alam ko at iniapply dito. That was just a test."
             "But I want you to think about it really hard...for if we continue this setup, I'm really going to ask that same question to you. And of course..."
+            hide smile
             show c_happy with flashbulb
             "YOU CAN'T SAY NO. hahahaha!"
             "Yeah, nah. I will not accept a NO."
             "I won't ask that if I feel na you won't go for it naman din. Marunong ako makiramdam..."
             "So, if you will go for it, wag mo iparamdam na hinde. Kundeee...aynako. Sayang ako sige ka. ;)"
+            hide c_happy
             jump pre_ending
 
         label q4_1_no:
+            hide neutral
             show c_ehe with flashbulb
             "Okay. I somehow expected that due to the circumstances you are in. I understand naman. Thanks for being honest."
             "Still, this will run the ending script. ;)"
@@ -236,12 +288,16 @@ label q4:
             "Keribum. I just wanted to insert here that I'm still thankful for the chance to make-up with you."
             "Maybe also thankful for not letting me hurt you again? \nWe cannot tell since it did not happen."
             "But please be reminded na pwede mo pa rin ako ayain. haha Lilibre mo pa ko ng kape di ba?? May pupuntahan pa tayo ng nakamotor? Di ba?? :)"
+            hide c_ehe
             jump pre_ending
 
         label pre_ending:
+            show c_neutral with dissolve
             "Osya. Masyado nang mahaba eto na talaga ung ending script..."
             ""
             ""
+            hide c_neutral
+            show c_happy
             "weeeeeyyyyytttt!"
             "Somewhere along the line, during the days I was typing slash coding this, naisip ko idagdag ung mga darating pa nating usapan..."
             "or maybe kung ano man yung mga mapapansin ko pa na pwede ko ilagay dito."
@@ -315,4 +371,3 @@ label q4:
         "Basta I love you, Pinky."
         "Bahala ka na mag interpret nyan. Yan na yun. TIME!"
         "---end"
-        
