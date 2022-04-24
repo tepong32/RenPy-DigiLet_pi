@@ -40,50 +40,48 @@ label start:
     # images directory to show it.
 
     scene bg pathway1
+    play music "audio/farm-birds.ogg" fadeout 1.0 fadein 1.0
     ""
     show unready at slightright with dissolve
     "ehem"
     hide unready
     show surprised at right with dissolve
-    "Huy! (Charaught lang.)"
+    "Huy! (Charaught. Gulat epek lang.)"
     hide surprised with dissolve
     "Teka okay na ba itsura ko?"
     show closeup with dissolve
     ""
     hide closeup with dissolve
     show smile
-    "Orayt, lezgow!"
+    "Pogi ng avatar ko no? Hehe"
     hide smile with fade
 
     # change bg here
     show neutral2
-    "Kumusta naman? It's been like what? 4 or 5 years since you received the initial version of this thingy?"
-    "I'd love to call this DigiLet, btw."
-    hide neutral2 with dissolve
-    show c_ehe
-    "Understandable, right?"
-    hide c_ehe with dissolve
+    "So, kumusta naman? It's been like what? 4 or 5 years since you received the initial version of this DigiLet thingy?"
     show neutral2
-    "I got a little tired of (but being stuck with) webdev stuffs and while checking-out what other options are available, I came across something that made me remember the very reason why I started programming."
+    "I got a little tired of (but also being stuck with) webdev stuffs and while checking-out what other options are available, I came across something that made me remember the very reason why I started programming."
     hide neutral2 with dissolve
-    show smile
-    ""
-    hide smile
+    show c_happy with dissolve
+    pause 1.0
+    hide c_happy with dissolve
     show stare with dissolve
+    pause 1.0
     "You."
     "I wanted to give you a digital, interactive love letter back then."
     hide stare
-    show c_ehe with dissolve
+    show c_ehe
     "And then...eto na yun!"
     "Hinanap ko ung sinend ko sa'yo noon (the very first one), and then inilagay ko dito."
+    hide c_ehe
+    show closeup
     "Keep in mind na inalis ko na ung instructions on how to use it kasi heto na nga, may GUI na. Kaya mas maikli na siguro itey..."
-    hide c_ehe with fade
-    show neutral2
-    "Today is April 19, 2022. (This also serves as a remembrance for me kaya may date.)"
-    "I was able to create this part 1 Visual Novel (VN) in 2 days! ;)"
-    hide neutral2
-    show c_happy
-    "Orayt! Let's go down the memory lane na."
+    hide closeup
+    pause 1.0
+    stop music fadeout 1.0
+    scene black
+    show c_happy at right with fade
+    "Orayt! Tama na ang intro. \nLet's go down the memory lane na."
     jump intro
 
 

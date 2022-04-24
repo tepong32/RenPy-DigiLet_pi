@@ -12,7 +12,7 @@
 ##
 ## The _() surrounding the string marks it as eligible for translation.
 
-define config.name = _("DigiLet_pinky")
+define config.name = _("DigiLet for Pinky")
 
 
 ## Determines if the title given above is shown on the main menu screen. Set
@@ -29,7 +29,14 @@ define config.version = "1.0"
 ## Text that is placed on the game's about screen. Place the text between the
 ## triple-quotes, and leave a blank line between paragraphs.
 
-define gui.about = _p("""
+define gui.about = _p("""This originated as a text-only, rundown "press-enter" thing using python back in 2018.
+It was then when I first tried-out doing Python-related stuffs and being some "hopeless-romantic" type of guy, I ended up creating a digital love-letter.
+(Lame!)
+
+Anyway, comments and suggestions regarding this project are welcome. Please drop emails to tepong32@gmail.com so, I can make better ones in the future... should I pursue this path to Visual Novels.
+ I would really appreciate them!
+
+ Thank you for checking this out! Labyuuuu!
 """)
 
 
@@ -37,7 +44,7 @@ define gui.about = _p("""
 ## distribution. This must be ASCII-only, and must not contain spaces, colons,
 ## or semicolons.
 
-define build.name = "DigiLet_pinky"
+define build.name = "DigiLet_1.0"
 
 
 ## Sounds and music ############################################################
@@ -143,7 +150,7 @@ default preferences.afm_time = 15
 ## This generally should not be changed, and if it is, should always be a
 ## literal string, not an expression.
 
-define config.save_directory = "DigiLet_pi-1650339737"
+define config.save_directory = "DigiLet_1.0-1650339737"
 
 
 ## Icon ########################################################################

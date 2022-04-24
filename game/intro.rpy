@@ -4,43 +4,64 @@ label intro:
     scene bg afgbmts
     with pixellate
 
-    show neutral2 at left
+    show c_ehe at left with dissolve
+    "(O di ba, nakakuha ako ng picture ng Trade?)"
+    hide c_ehe with dissolve
+    show neutral2 at left with dissolve
     "A few years back...(uhh..err..?) MANY years ago, at AFGBMTS, I met you."
     ""
     "The end."
     hide neutral2
-    show c_ehe with dissolve
+    scene black with pixellate
+    show c_ehe at left with dissolve
     "Hehe! Joke lang. So ayon...yeah I met you...along with everyone else."
     hide c_ehe
-    show neutral2 with dissolve
+    show closeup at left
     "It's not unknown naman na hindi tayo close / masyadong close nung high school.The Pinky I know was someone so...nag-aaral lang. Ganern. Kasama sa top students? Tropa ni Angelique at Llabora? haha"
-    hide neutral2
-    show c_ehe
+    hide closeup
+    show c_ehe at left
     "Bakit ko ba ipinasok to e wala naman akong maisip. Tinatype ko lang on the spot."
     "Well, let's jump forward to where things got a little crazy na lang...para may masabi ako."
     hide c_ehe
-    show c_happy
+    show c_happy at left
     "SI BRUUUU! :) We became close when 'we' (me and her) became close. Yun yata yun di ba? (Textmates kami.)"
+    hide c_happy with dissolve
+    show bru at right with dissolve
+    pause 1.0
+    show closeup at left with dissolve
+    hide bru with dissolve
+    ""
     "I cannot really recall na how things started. Basta alam ko na you were fond / very fond of me back then. NYAHAHAHAHA!"
-    hide c_happy
-    show c_haist
+    hide closeup
+    show c_haist with dissolve
     "Kokontra?"
-    hide c_haist
-    show c_happy
+    hide c_haist with dissolve
+    show c_happy with dissolve
     "Good!"
-    hide c_happy
-    show c_poker
+    hide c_happy with dissolve
+    show unready at left with dissolve
     "Errr...Wala talaga akong masabi sa part na 'to."
     "I'll skip the little details. The fun part is the latter part, anyways."
     "Lemme just ask you this here na lang:"
-    "Okay na ba tayo?"
-    "Have you forgiven me already? Sincerely? As in wala nang nakatanim jan na galit for me?"
+    ""
+    hide unready
 
+    show poker at left
+    "Okay na ba tayo?"
+    "Have you forgiven me already?"
+    pause 1.0
+    hide poker
+    show c_poker at left with dissolve
+    "Sincerely? As in wala nang nakatanim jan na galit for me?"
+    hide c_poker
+    show poker at left with move
     menu:
         "Oo... siguro?":
+            hide poker
             jump choice1_yes
 
         "Hindi...hindi rin ako sigurado.":
+            hide poker
             jump choice1_no
 
     label choice1_yes:
