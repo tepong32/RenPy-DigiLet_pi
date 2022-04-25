@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/intro.rpy", line 41: end of line expected.
-    show unready with dissolve at left
-                               ^
+File "game/transforms.rpy", line 22: expected 'comma or end of line' not found.
+    show neutral1
+    ^
 
 Ren'Py Version: Ren'Py 7.4.11.2266
-Sun Apr 24 17:38:31 2022
+Mon Apr 25 23:01:11 2022

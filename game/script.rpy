@@ -9,27 +9,6 @@
 # define s = Character('You', color="#c8ffc8")
 # define m = Character('Me', color="#c8c8ff")
 
-# Sprite positioning and Transitiondefinitions
-
-transform slightleft:
-    xalign 0.25
-    yalign 1.0
-transform slightright:
-    xalign 0.75
-    yalign 1.0
-
-# Default transition options:
-# fade, dissolve, pixellate, vpunch/hpunch (use with 'play audio "punch.opus"'),
-# move (brings the character to the right then back to the center)
-    # show eileen happy at right
-    # with move
-    # show eileen happy at center
-    # with move
-
-define slowdissolve = Dissolve(1.0)
-define flashbulb = Fade(0.2, 0.0, 0.8, color='#fff') # flashbang!
-
-
 
 ################################################ The game starts here.
 
@@ -69,19 +48,20 @@ label start:
     pause 1.0
     "You."
     "I wanted to give you a digital, interactive love letter back then."
+    "Around the same time I decided to learn programming."
     hide stare
     show c_ehe
     "And then...eto na yun!"
     "Hinanap ko ung sinend ko sa'yo noon (the very first one), and then inilagay ko dito."
     hide c_ehe
     show closeup
-    "Keep in mind na inalis ko na ung instructions on how to use it kasi heto na nga, may GUI na. Kaya mas maikli na siguro itey..."
+    "Just take note na inalis ko na ung instructions chuchu kasi heto na nga, may GUI na. Kaya mas maikli na siguro itey..."
     hide closeup
     pause 1.0
     stop music fadeout 1.0
     scene black
     show c_happy at right with fade
-    "Orayt! Tama na ang intro. \nLet's go down the memory lane na."
+    "Osya! Tama na ang intro. \nLet's go down the memory lane na."
     jump intro
 
 

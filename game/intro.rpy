@@ -24,19 +24,20 @@ label intro:
     "Well, let's jump forward to where things got a little crazy na lang...para may masabi ako."
     hide c_ehe
     show c_happy at left
+    show bru at slightright2 with dissolve
     "SI BRUUUU! :) We became close when 'we' (me and her) became close. Yun yata yun di ba? (Textmates kami.)"
+    hide bru with dissolve
     hide c_happy with dissolve
-    show bru at right with dissolve
     pause 1.0
     show closeup at left with dissolve
-    hide bru with dissolve
+
     ""
     "I cannot really recall na how things started. Basta alam ko na you were fond / very fond of me back then. NYAHAHAHAHA!"
     hide closeup
     show c_haist with dissolve
     "Kokontra?"
-    hide c_haist with dissolve
-    show c_happy with dissolve
+    hide c_haist
+    show c_happy
     "Good!"
     hide c_happy with dissolve
     show unready at left with dissolve
@@ -54,7 +55,7 @@ label intro:
     show c_poker at left with dissolve
     "Sincerely? As in wala nang nakatanim jan na galit for me?"
     hide c_poker
-    show poker at left with move
+    show poker at left with dissolve
     menu:
         "Oo... siguro?":
             hide poker
@@ -67,7 +68,7 @@ label intro:
     label choice1_yes:
         $ menu_flag = True
         hide c_poker
-        show c_happy
+        show c_happy with dissolve
         "Well, sana nga. (Trust issues!?) Pero thank you. ;)"
         jump choice1_done
         hide c_happy
@@ -75,11 +76,10 @@ label intro:
     label choice1_no:
         $ menu_flag = False
         hide c_poker
-        show c_haist
+        show c_haist with dissolve
         "Sabi ko na nga ba e. Anywaaaay..."
         hide c_haist
         jump choice1_done
-        hide c_haist
 
 #### This block can be used somewhere else...I guess
 # a block in relation to menu_flag on choice1 labels

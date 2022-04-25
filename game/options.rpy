@@ -12,7 +12,7 @@
 ##
 ## The _() surrounding the string marks it as eligible for translation.
 
-define config.name = _("DigiLet for Pinky")
+define config.name = _("DigiLet")
 
 
 ## Determines if the title given above is shown on the main menu screen. Set
@@ -157,7 +157,7 @@ define config.save_directory = "DigiLet_1.0-1650339737"
 ##
 ## The icon displayed on the taskbar or dock.
 
-define config.window_icon = "gui/window_icon.png"
+define config.window_icon = "gui/pi.png"
 
 
 ## Build configuration #########################################################

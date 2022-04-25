@@ -62,15 +62,16 @@ label q1:
             "Well, anyway, hindi naman yun mahalaga. What's important is now you know. \nTechnically, that was 13 kase madaling araw na..."
             "...sa bus. di ba?"
             hide c_haist
-            show c_ehe at left with dissolve
+            show c_ehe at left
             "I would love to remember as much details as I could kaso di ko matandaan ung name ng bus. LOL"
             hide bus with dissolve
-            show sanmig at left with dissolve
-            pause 0.5
-            show cheetos at right with dissolve
-            pause 0.5
-            hide sanmig
-            hide cheetos with dissolve
+            # show sanmig at left with dissolve
+            # pause 0.5
+            # show cheetos at right with dissolve
+            # pause 0.5
+            show cheetos at rightmost1 with dissolve
+            show sanmig at slightright1 with dissolve
+
 
             "Remember the beer? The spicy cheetos? The field? The rain?"
             hide c_ehe with dissolve
@@ -83,30 +84,35 @@ label q1:
             "Ay oo nga! HAHAHAHA!"
             "Mamaya mo na alalahanin ung pagtutulak mo, Pi! HAHAHA! SORRY NA KASI E!"
             hide push with dissolve
-            "Sabi naman sayo, at least, sakin mo lang na-experience un!"
+            "Sabi naman sayo, at least, sakin mo lang na-experience un! \n(Tago na natin yan)"
             hide c_happy
+            hide sanmig with dissolve
+            hide cheetos with dissolve
             show c_poker at left with dissolve
-            "Setting that \"pagtutulak\" aside,... (ibahin ko na agad topic. hehe)"
+            "Setting that \"pagtutulak\" aside,... \n(ibahin ko na agad topic. hehe)"
             "That night was when I actually first wanted to kiss you..."
             hide c_poker
-            show c_ehe with dissolve
-            "...and I'm not telling just a kiss on the cheeks. I was looking at your lips back then. Honestly. haha"
+            show c_ehe at left
+            "...and I'm not telling just a kiss on the cheeks."
             hide c_ehe
-            show c_poker at left with dissolve
-            "Same as nung andun tayo kela Jude. I was looking... \njust looking though."
+            show c_poker at left
+            "Same as nung andun tayo kela Jude, I was looking (just looking) at your lips back then."
             "I mentioned this din after nung kela Jude di ba? Pero that first night we were together..."
             "...at the field"
             "...umuulan?"
             hide c_poker
-            show c_neutral with dissolve
-            "...gustong-gusto kitang halikan."
-            "I just don't know if I was afraid or I was just thinking na hindi pa yun ung oras...Maybe both?"
+            show c_neutral at left
+            "Seryoso...gustong-gusto kitang halikan."
             hide c_neutral
+            show c_poker at left
+            "I just don't know if I was afraid or I was just thinking na hindi pa yun ung oras...Maybe both?"
+            hide c_poker
             show c_haist at left with dissolve
             "That may be a perfect place but definitely not a perfect timing...and I was right."
             "Galing ko talaga sa mga ganun e!"
-            "I'm somehow glad that I hesitated and my hesitaion won."
-            hide c_haist
+            "I'm somehow glad that I hesitated and my hesitation won."
+            hide c_haist with dissolve
+            ""
             show closeup at left with dissolve
             "ANYWAAAAAAAAY...NEXT!"
             jump q2
